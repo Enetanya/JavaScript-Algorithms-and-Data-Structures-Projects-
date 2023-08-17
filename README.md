@@ -1,4 +1,4 @@
-This JavaScript-Algorithms-and-Data-Structures-Projects repository contains 5 JavaScript projeccts. They are: Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, and Cash Register. 
+This JavaScript-Algorithms-and-Data-Structures-Projects repository contains 5 JavaScript projects. They are: Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, and Cash Register. 
 
 1. Palindrome Checker - A palindrome is a word or sentence that is spelled the same way both foward and backward,such as "eye" or "race car".It Returns "true" if the given string is a palindrome, otherwise it returns false.
 

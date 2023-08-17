@@ -1,0 +1,1 @@
+This JavaScript-Algorithms-and-Data-Structures-Projects repository contains 5 JavaScript projeccts. They are: Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, and Cash Register. 
